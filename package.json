@@ -1,6 +1,6 @@
 {
   "name": "test",
-  "homepage": "https://{사용자이름}.github.io/{저장소이름}",
+  "homepage": "https://hyeonnjin.github.io/hj_portfoilo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
